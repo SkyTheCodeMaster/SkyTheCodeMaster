@@ -1,16 +1,16 @@
-### Hi there 👋
 
-<!--
-**SkyTheCodeMaster/SkyTheCodeMaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Hi! Welcome to my GitHub.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My Discord: SkyCrafter0#4576](https://img.shields.io/badge/Discord-znepb%230123-%235865F2?logo=discord&style=for-the-badge&logoColor=white)
+
+I'm Sky, a young Canadian programmer who aspires to be an electrician.
+
+|GitHub Stats|Most Used Languages|
+|--|--|
+|<img src="https://github-readme-stats.vercel.app/api?username=SkyTheCodeMaster&show_icons=true" alt="My GitHub stats" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTheCodeMaster&layout=compact&cbuster" alt="My most used languages in repos" />|
+
+### What I've been working on
+- [BIMG](https://github.com/SkyTheCodeMaster/bimg)
+- [Various libraries for ComputerCraft](https://github.com/SkyTheCodeMaster/SkyDocs)
+- [A foray into Minecraft modding](https://github.com/SkyTheCodeMaster/scp-mod)
