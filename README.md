@@ -14,3 +14,4 @@ I'm Sky, a young Canadian programmer who aspires to be an electrician.
 - [BIMG](https://github.com/SkyTheCodeMaster/bimg)
 - [Various libraries for ComputerCraft](https://github.com/SkyTheCodeMaster/SkyDocs)
 - [A foray into Minecraft modding](https://github.com/SkyTheCodeMaster/scp-mod)
+- [A crypto pool monitoring program](https://github.com/SkyTheCodeMaster/unmineable-monitor)
