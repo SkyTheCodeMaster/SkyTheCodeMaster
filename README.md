@@ -2,7 +2,7 @@
 
 ## Hi! Welcome to my GitHub.
 
-![My Discord: SkyCrafter0#4576](https://img.shields.io/badge/Discord-SkyCrafter0%234576-%235865F2?logo=discord&style=for-the-badge&logoColor=white)
+![My Discord: SkyCrafter0](https://img.shields.io/badge/Discord-SkyCrafter0-%235865F2?logo=discord&style=for-the-badge&logoColor=white)
 
 I'm Sky, a young Canadian programmer who aspires to be an electrician.
 
