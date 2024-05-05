@@ -10,10 +10,10 @@ I'm Sky, a young Canadian programmer who aspires to be an electrician.
 |--|--|
 |<img src="https://github-readme-stats.vercel.app/api?username=SkyTheCodeMaster&show_icons=true" alt="My GitHub stats" />|<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SkyTheCodeMaster&layout=compact&cbuster" alt="My most used languages in repos" />|
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=skythecodemaster)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### What I've been working on
-- [A standardized image format for ComputerCraft](https://github.com/SkyTheCodeMaster/bimg)
-- [Various libraries for ComputerCraft](https://github.com/SkyTheCodeMaster/SkyDocs)
-- [A foray into Minecraft modding](https://github.com/SkyTheCodeMaster/scp-mod)
-- [A crypto pool monitoring program](https://github.com/SkyTheCodeMaster/unmineable-monitor)
+- [UPC Data Aggregation](https://github.com/SkyTheCodeMaster/upc-api)
+- [A simple system for managing physical inventory](https://github.com/SkyTheCodeMaster/inventory-manager)
+- [A status monitor to watch over multiple machines](https://github.com/SkyTheCodeMaster/status-monitor)
+- [SSO Authentication for my projects](https://github.com/SkyTheCodeMaster/auth)
